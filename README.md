@@ -28,4 +28,6 @@ Contribuições são bem-vindas! Caso você conheça algum evento que não está
 
 ## Tech Agenda nas Redes:
 Blog(#) | [Instagram](https://www.instagram.com/na2kstudies) | [TikTok](https://www.tiktok.com/@na2kstudies)
+![print-tiktok](https://github.com/natashalisboa/tech-agenda/blob/main/na2kstudies_tiktok.png)
+
 </samp>
